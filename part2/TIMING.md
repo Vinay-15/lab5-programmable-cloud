@@ -9,4 +9,3 @@ Time is measured from the `instances.insert` call until the operation reports `D
 | lab5-part1-clone-1 | 9.55 |
 | lab5-part1-clone-2 | 10.69 |
 | lab5-part1-clone-3 | 8.94 |
-| **Average** | **9.73** |
